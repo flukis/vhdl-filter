@@ -1,2 +1,2 @@
-# vhdl-filter
+# VHDL FPGA
 Nostalgia dengan VHDL
