@@ -1,2 +1,2 @@
 # VHDL FPGA
-Nostalgia dengan VHDL
+My skripshit hdl code for FPGA
